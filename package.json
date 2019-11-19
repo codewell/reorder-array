@@ -1,0 +1,26 @@
+{
+  "name": "reorder-array",
+  "version": "1.0.0",
+  "description": "Set which element should be at the end of an array",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewell/reorder-array.git"
+  },
+  "keywords": [],
+  "author": "Filip Johansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewell/reorder-array/issues"
+  },
+  "homepage": "https://github.com/codewell/reorder-array#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
