@@ -1,5 +1,5 @@
 {
-  "name": "reorder-array",
+  "name": "@codewell/reorder-array",
   "version": "1.0.0",
   "description": "Set which element should be at the end of an array",
   "main": "index.js",
