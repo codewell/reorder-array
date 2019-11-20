@@ -1,8 +1,8 @@
 {
   "name": "@codewell/reorder-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set which element should be at the end of an array",
-  "main": "index.js",
+  "main": "src/index.js",
   "directories": {
     "test": "tests"
   },
