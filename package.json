@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/codewell/reorder-array#readme",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^26.0.1"
   }
 }
